@@ -1,0 +1,28 @@
+name: C-Approach
+favicon: null
+layout_spectrum: 0.43454234953969717
+typography_spectrum: 0.8302542776800692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4544200950767845
+  lightness: 0.18190241092815995
+  saturation: 0.7824637002777308
+  rhythmicContrast: 0.721703905845061
+purpose: []
